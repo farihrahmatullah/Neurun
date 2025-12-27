@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Monster
+  - Huruf
+  - Matakanan
+  - Matakiri
+  - Mulut
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - platfromLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG1
+    uniqueID: 3265880083
+    locked: 0
+  - name: BG2
+    uniqueID: 4228521459
+    locked: 0
+  - name: BG3
+    uniqueID: 3860159635
+    locked: 0
+  - name: Game
+    uniqueID: 1462401933
+    locked: 0
+  - name: UI
+    uniqueID: 3134322729
+    locked: 0

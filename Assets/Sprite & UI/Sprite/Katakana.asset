@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19471dd66a433d94cb09bf899cbf21bf, type: 3}
+  m_Name: Katakana
+  m_EditorClassIdentifier: 
+  letterSprites:
+  - letter: 12450
+    sprite: {fileID: 21300000, guid: 0c1ab8b8e9450ad47a14a841a4bc4c8d, type: 3}
+  - letter: 12452
+    sprite: {fileID: 21300000, guid: 5e58fc6cc92eccb438f29c98cfb885f1, type: 3}
+  - letter: 12454
+    sprite: {fileID: 21300000, guid: 284851a926c488642b254f8cba075279, type: 3}
+  - letter: 12456
+    sprite: {fileID: 21300000, guid: f8921a82877213441aac92e58d48c6a4, type: 3}
+  - letter: 12458
+    sprite: {fileID: 21300000, guid: ea0a73e43968fe8408480bd2fe6e2668, type: 3}
+  - letter: 12459
+    sprite: {fileID: 21300000, guid: ecd3f35f88795184484846817b334158, type: 3}
+  - letter: 12461
+    sprite: {fileID: 21300000, guid: 2d3091059ff2b7d4fae3a058fbc8ef17, type: 3}
+  - letter: 12463
+    sprite: {fileID: 21300000, guid: eed34a473b7422b4cbfe218f6eff0984, type: 3}
+  - letter: 12465
+    sprite: {fileID: 21300000, guid: 2f44be8b423183447ae33a0966bd9cc8, type: 3}
+  - letter: 12467
+    sprite: {fileID: 21300000, guid: 55d8ab61e0139c949b51d2a65d76bfc2, type: 3}
+  - letter: 12469
+    sprite: {fileID: 21300000, guid: 04554f6c33b4a8c4490d256aaf126110, type: 3}
+  - letter: 12471
+    sprite: {fileID: 21300000, guid: 21938c9bb966c4048ae33db33c9052e7, type: 3}
+  - letter: 12473
+    sprite: {fileID: 21300000, guid: bf0975e7d62167548a89be1336e5dd9c, type: 3}
+  - letter: 12475
+    sprite: {fileID: 21300000, guid: fb9f2ab37b84e9847921efb05cdacf8f, type: 3}
+  - letter: 12477
+    sprite: {fileID: 21300000, guid: 3d60a62a638b2f94487028ecb56fdd69, type: 3}
+  - letter: 12479
+    sprite: {fileID: 21300000, guid: 47a53006832601b47a0b2ef1c2c1e0d4, type: 3}
+  - letter: 12481
+    sprite: {fileID: 21300000, guid: 961606a04a3b29340812939bfec443c2, type: 3}
+  - letter: 12484
+    sprite: {fileID: 21300000, guid: 273db8f5ccf19f8418978e86082800ab, type: 3}
+  - letter: 12486
+    sprite: {fileID: 21300000, guid: ff1cf5c8698bf824cb28ac8b26681a9a, type: 3}
+  - letter: 12488
+    sprite: {fileID: 21300000, guid: bf4aaac408bd0174380cc6b0fc2e8531, type: 3}
+  - letter: 12490
+    sprite: {fileID: 21300000, guid: 2e7597f67486de8488d42089a9226d38, type: 3}
+  - letter: 12491
+    sprite: {fileID: 21300000, guid: 15ce951b853ba2a4fbd99547ba22834a, type: 3}
+  - letter: 12492
+    sprite: {fileID: 21300000, guid: 5ed6ee1c2ed56cf41a8496d17cea5e7a, type: 3}
+  - letter: 12493
+    sprite: {fileID: 21300000, guid: 65d854cdabc7c864bbf802bf931e6b52, type: 3}
+  - letter: 12494
+    sprite: {fileID: 21300000, guid: 0a69be975a26826418acb7449c1ca9a5, type: 3}
+  - letter: 12495
+    sprite: {fileID: 21300000, guid: b9eec3f025a76274ea79fead6f749703, type: 3}
+  - letter: 12498
+    sprite: {fileID: 21300000, guid: 924ac1f47c71025459624a2aa264838c, type: 3}
+  - letter: 12501
+    sprite: {fileID: 21300000, guid: 09c411ffe0fe40046b3594a6b74b9927, type: 3}
+  - letter: 12504
+    sprite: {fileID: 21300000, guid: 14d04e2c9b226db48a47a48a4ce64725, type: 3}
+  - letter: 12507
+    sprite: {fileID: 21300000, guid: c2954bd85079bf74186fa27f05345be6, type: 3}
+  - letter: 12510
+    sprite: {fileID: 21300000, guid: 778fb6c06a99f2f41ba2a70f29e3a86a, type: 3}
+  - letter: 12511
+    sprite: {fileID: 21300000, guid: d9ec3cda12cc02543b9b787508498b70, type: 3}
+  - letter: 12512
+    sprite: {fileID: 21300000, guid: 5d42a1709127f754ab732665e79f5b6a, type: 3}
+  - letter: 12513
+    sprite: {fileID: 21300000, guid: 2da1f5365c2fac940b9d844f91a08b5a, type: 3}
+  - letter: 12514
+    sprite: {fileID: 21300000, guid: a2bf8a5550da98840a5ceb9f67206c21, type: 3}
+  - letter: 12516
+    sprite: {fileID: 21300000, guid: f853b1d79997fd247bf513fb744ad274, type: 3}
+  - letter: 12518
+    sprite: {fileID: 21300000, guid: 2f5c451dc05e40f4b8b085fd58e755ad, type: 3}
+  - letter: 12520
+    sprite: {fileID: 21300000, guid: e3e7b3bffd0648044a033f705274080c, type: 3}
+  - letter: 12521
+    sprite: {fileID: 21300000, guid: f07c69e76cddcaa419c014cc3daae701, type: 3}
+  - letter: 12522
+    sprite: {fileID: 21300000, guid: 2900d36efe590b348a592299739ae6b0, type: 3}
+  - letter: 12523
+    sprite: {fileID: 21300000, guid: b39d00d3b98f24e4685fac73e87b2d29, type: 3}
+  - letter: 12524
+    sprite: {fileID: 21300000, guid: 3d2a99fa410f7604d9e5c245ebec4935, type: 3}
+  - letter: 12525
+    sprite: {fileID: 21300000, guid: 35459926d6d9bde4cb4bf3335e95f1d4, type: 3}
+  - letter: 12527
+    sprite: {fileID: 21300000, guid: e43a4fac0d397f84dac134eba7b34868, type: 3}
+  - letter: 12530
+    sprite: {fileID: 21300000, guid: 1ef046f861c508e448be2ab11474c13d, type: 3}
+  - letter: 12531
+    sprite: {fileID: 21300000, guid: 9cbf2d1c1beee4d46ad0b558a690588a, type: 3}
+  - letter: 12460
+    sprite: {fileID: 21300000, guid: eaebf4625e9c66d43aaa388f1f43a6e1, type: 3}
+  - letter: 12462
+    sprite: {fileID: 21300000, guid: f06fb04de89304d42bd10cb7a99510fb, type: 3}
+  - letter: 12464
+    sprite: {fileID: 21300000, guid: 210b5b9bace474e428e0bcc622383e6b, type: 3}
+  - letter: 12466
+    sprite: {fileID: 21300000, guid: 34fc21ad47dea6a4ba0f8edb3582ebe8, type: 3}
+  - letter: 12468
+    sprite: {fileID: 21300000, guid: ea258726f6db46f48b2db1385fb8671a, type: 3}
+  - letter: 12470
+    sprite: {fileID: 21300000, guid: a0f9f8cd2bc74fa48a084c49d40aebea, type: 3}
+  - letter: 12472
+    sprite: {fileID: 21300000, guid: a66e4658c5eb56b4589b6308be888854, type: 3}
+  - letter: 12474
+    sprite: {fileID: 21300000, guid: 406faeca9e7e4a74ea067ed8b8bfdf49, type: 3}
+  - letter: 12476
+    sprite: {fileID: 21300000, guid: aac2101ed1cf3ed4aa9dae1773dbba3e, type: 3}
+  - letter: 12478
+    sprite: {fileID: 21300000, guid: baeb9251205aa694ca0cbc59b5eeff64, type: 3}
+  - letter: 12480
+    sprite: {fileID: 21300000, guid: 13a771f070320864da4f4d65fb3a507c, type: 3}
+  - letter: 12482
+    sprite: {fileID: 21300000, guid: 4d879b57626bc2a4281bfd7e8b2d0451, type: 3}
+  - letter: 12485
+    sprite: {fileID: 21300000, guid: e4ee7343eb1ec564c9bffaeaa15ba42c, type: 3}
+  - letter: 12487
+    sprite: {fileID: 21300000, guid: 662c3bf7b2413da47bc17ada43b8ed05, type: 3}
+  - letter: 12489
+    sprite: {fileID: 21300000, guid: 24dd4323d6c99ad42ad8086770859969, type: 3}
+  - letter: 12496
+    sprite: {fileID: 21300000, guid: 5e3203cde18f26f4e9cf75f60741b28b, type: 3}
+  - letter: 12499
+    sprite: {fileID: 21300000, guid: b4f2215af42878c4f92a3de7f0159ef8, type: 3}
+  - letter: 12502
+    sprite: {fileID: 21300000, guid: abd57b2c510834e4bb95241fadef98b7, type: 3}
+  - letter: 12505
+    sprite: {fileID: 21300000, guid: dbcb66684d61d134684b5b9606b11457, type: 3}
+  - letter: 12508
+    sprite: {fileID: 21300000, guid: 51639646509561e4a9c60bc77811c1b2, type: 3}
+  - letter: 12497
+    sprite: {fileID: 21300000, guid: d1d20d96f95af344fb689b0db8e5c97e, type: 3}
+  - letter: 12500
+    sprite: {fileID: 21300000, guid: bb2eae086713634458244391c7f435f5, type: 3}
+  - letter: 12503
+    sprite: {fileID: 21300000, guid: e8b21b4b12b600e409def70ef3dd30d9, type: 3}
+  - letter: 12506
+    sprite: {fileID: 21300000, guid: e2a7675e61bc5c5488d3a2aa5b982f16, type: 3}
+  - letter: 12509
+    sprite: {fileID: 21300000, guid: 9b0602d320ce9bf41abb7177e852d894, type: 3}
+  - letter: 12515
+    sprite: {fileID: 21300000, guid: ad008370979d74946ac75e07126a432f, type: 3}
+  - letter: 12517
+    sprite: {fileID: 21300000, guid: 2a3445bfd1538d7479bcb2aae635c816, type: 3}
+  - letter: 12519
+    sprite: {fileID: 21300000, guid: 5f05d80af5d889042967202417cb114b, type: 3}
+  - letter: 12483
+    sprite: {fileID: 21300000, guid: c48bc59d7409b3f4ab9e52cdb1ff9a50, type: 3}
+  - letter: 12540
+    sprite: {fileID: 21300000, guid: a5c23db7762182443bcc7154eb22282e, type: 3}

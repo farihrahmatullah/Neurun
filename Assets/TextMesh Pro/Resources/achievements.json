@@ -1,0 +1,91 @@
+ 
+ {
+  
+  "achievements": [
+  {
+    "id": "score_1000",
+    "title": "Pemanasan",
+    "description": "Capai skor 1000 dalam satu permainan.",
+    "type": "score",
+    "target": 1000
+  },
+  {
+    "id": "score_2000",
+    "title": "Menembus 2000",
+    "description": "Capai skor 2000 dalam satu permainan.",
+    "type": "score",
+    "target": 2000
+  },
+  {
+    "id": "score_5000",
+    "title": "Menembus 5000",
+    "description": "Capai skor 5000 dalam satu permainan.",
+    "type": "score",
+    "target": 5000
+  },
+  {
+    "id": "score_10000",
+    "title": "Rajin Lari",
+    "description": "Capai skor 10000 dalam satu permainan.",
+    "type": "score",
+    "target": 10000
+  },
+  {
+    "id": "score_20000",
+    "title": "Pahlawan Tak Kenal Lelah",
+    "description": "Capai skor 20000 dalam satu permainan.",
+    "type": "score",
+    "target": 20000
+  },
+  {
+    "id": "point_100",
+    "title": "Terlahir Pintar",
+    "description": "Capai point 100 dalam satu permainan.",
+    "type": "point",
+    "target": 100
+  },
+  {
+    "id": "point_200",
+    "title": "200 point pertama",
+    "description": "Capai point 200 dalam satu permainan.",
+    "type": "point",
+    "target": 200
+  },
+  {
+    "id": "point_500",
+    "title": "500 point pertama",
+    "description": "Capai point 500 dalam satu permainan.",
+    "type": "point",
+    "target": 500
+  },
+  {
+    "id": "point_1000",
+    "title": "Bukan Manusia Biasa",
+    "description": "Capai point 1000 dalam satu permainan.",
+    "type": "point",
+    "target": 1000
+  },
+  {
+    "id": "point_2000",
+    "title": "Dewa",
+    "description": "Capai point 2000 dalam satu permainan.",
+    "type": "point",
+    "target": 2000
+  },
+  {
+    "id": "first_word",
+    "title": "Kata Pertama!",
+    "description": "Selesaikan satu kata pertama.",
+    "type": "words_completed",
+    "target": 1
+  },
+  {
+    "id": "word_kumpul_5",
+    "title": "Bayi Belajar",
+    "description": "Kumpulkan 5 kata pertama.",
+    "type": "words_unik",
+    "target": 5
+  }
+
+]
+}

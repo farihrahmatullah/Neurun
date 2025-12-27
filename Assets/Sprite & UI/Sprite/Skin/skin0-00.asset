@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad0f1b578f960804bb9995312efaef05, type: 3}
+  m_Name: skin0-00
+  m_EditorClassIdentifier: 
+  skinID: 0
+  skinName: Neu
+  bodySprite: {fileID: 282210032, guid: bfb3c1a92ec44584cadd55bbd3051d52, type: 3}
+  mataKananSprite: {fileID: -417401874, guid: bfb3c1a92ec44584cadd55bbd3051d52, type: 3}
+  mataKiriSprite: {fileID: -809046947, guid: bfb3c1a92ec44584cadd55bbd3051d52, type: 3}
+  mulutSprite: {fileID: -767594967, guid: bfb3c1a92ec44584cadd55bbd3051d52, type: 3}
+  hargaSkin: 0
+  unlockedByDefault: 1

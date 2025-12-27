@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad0f1b578f960804bb9995312efaef05, type: 3}
+  m_Name: skin6-06
+  m_EditorClassIdentifier: 
+  skinID: 6
+  skinName: Pesulap
+  bodySprite: {fileID: 20129116, guid: 45232d18401c2b842a6d0b57bf2592e2, type: 3}
+  mataKananSprite: {fileID: 194407630, guid: 45232d18401c2b842a6d0b57bf2592e2, type: 3}
+  mataKiriSprite: {fileID: 775157752, guid: 45232d18401c2b842a6d0b57bf2592e2, type: 3}
+  mulutSprite: {fileID: 1040553486, guid: 45232d18401c2b842a6d0b57bf2592e2, type: 3}
+  hargaSkin: 600
+  unlockedByDefault: 0
